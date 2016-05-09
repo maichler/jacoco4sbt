@@ -2,9 +2,9 @@ sbtPlugin := true
 
 name := "jacoco4sbt"
 
-organization := "de.johoop"
+organization := "de.mediacluster.sbt"
 
-version := "2.1.6"
+version := "2.1.6-mc1"
 
 resolvers += "Sonatype Release" at "https://oss.sonatype.org/content/repositories/releases"
 
